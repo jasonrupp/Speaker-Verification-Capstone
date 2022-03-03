@@ -1,4 +1,7 @@
 # Speaker-Verification-Capstone
+
+Article published here: https://scholar.smu.edu/datasciencereview/vol5/iss2/11/
+
 Text-independent, one-shot speaker verification. Capstone project for SMU MSDS graduate program.
 
 This project uses the VoxCeleb dataset, which is a open dataset of over 7000 speakers and 1 million utterances (https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) to create a speaker verification system that can be trained on this corpus and find the distances betwreen 2 arbitary voices.
